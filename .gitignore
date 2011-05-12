@@ -1,0 +1,18 @@
+############################################################
+# ignore directories with data products in them
+#
+animations/*
+fig/*
+frames/*
+orbits/*
+
+############################################################
+# ignore writeup directory: we don't want this to be public!!
+#
+writeup
+
+############################################################
+# ignore certain file extensions
+#
+*pyc
+*~
